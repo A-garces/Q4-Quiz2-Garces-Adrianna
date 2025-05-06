@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(246, 246, 193);
+    color: rgb(0, 0, 0);
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+}
+
+.container {
+    max-width: 1000px;
+    padding: 2%;
+    border-radius: 5%;
+    margin-top: 10%;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 290px;
+    margin-left: 35%;
+    margin-right: 0%;
+}
+
+p {
+    text-align: center;
+}
